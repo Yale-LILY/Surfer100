@@ -1,0 +1,4 @@
+<INTRODUCTION> :  computational linguistics, machine translation, text translation, speech translation
+<HISTORY> :  APEXC, rule-based systems, statistical methods, AI, deep learning
+<KEY IDEAS> :  rule-based systems, statistical methods, monolingual and bilingual corpora, 
+<USES/APPLICATIONS> :   business use, consumer use, multi-domain translation services, light-weight and cloud-based apps, wearable devices

@@ -1,0 +1,15 @@
+https://towardsdatascience.com/a-quick-introduction-to-text-summarization-in-machine-learning-3d27ccf18a9f
+https://medium.com/luisfredgs/automatic-text-summarization-with-machine-learning-an-overview-68ded5717a25
+https://www.machinelearningplus.com/nlp/text-summarization-approaches-nlp-example/
+https://www.analyticsvidhya.com/blog/2019/06/comprehensive-guide-text-summarization-using-deep-learning-python/
+https://paperswithcode.com/task/text-summarization
+https://machinelearningmastery.com/gentle-introduction-text-summarization/
+https://analyticsindiamag.com/hands-on-guide-to-extractive-text-summarization-with-bertsum/
+https://link.springer.com/10.1007/978-0-387-39940-9_424
+https://www.coverwallet.com/expert-insights/nlp-text-summarization-for-businesses
+https://www.kdnuggets.com/2019/01/approaches-text-summarization-overview.html
+https://www.kdnuggets.com/2019/12/automatic-text-summarization-nutshell.html
+https://blog.floydhub.com/gentle-introduction-to-text-summarization-in-machine-learning/
+https://www.quora.com/What-are-the-real-world-applications-of-automatic-text-summarization
+https://arxiv.org/pdf/2107.14691.pdf
+

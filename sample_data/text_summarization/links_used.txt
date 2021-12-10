@@ -1,0 +1,6 @@
+https://towardsdatascience.com/a-quick-introduction-to-text-summarization-in-machine-learning-3d27ccf18a9f
+https://www.kdnuggets.com/2019/12/automatic-text-summarization-nutshell.html
+https://blog.floydhub.com/gentle-introduction-to-text-summarization-in-machine-learning/
+https://www.quora.com/What-are-the-real-world-applications-of-automatic-text-summarization
+https://arxiv.org/pdf/2107.14691.pdf
+

@@ -1,0 +1,19 @@
+<INTRODUCTION>
+
+Machine translation, sometimes referred to by the abbreviation MT (not to be confused with computer-aided translation, machine-aided human translation (MAHT) or interactive translation), is a sub-field of computational linguistics that investigates the use of software to translate text or speech from one language to another. MT tools are often used to translate vast amounts of information involving millions of words that could not possibly be translated the traditional way. The quality of MT output can vary considerably; MT systems require “training” in the desired domain and language pair to increase quality.
+
+<HISTORY>
+
+The idea of using digital computers for translation of natural languages was proposed as early as 1946 by A. D. Booth and possibly others. Warren Weaver wrote an important memorandum "Translation" in 1949. The Georgetown experiment was by no means the first such application, and a demonstration was made in 1954 on the APEXC machine at Birkbeck College (University of London) of a rudimentary translation of English into French. Classically, rule-based systems were used for this task, which were replaced in the 1990s with statistical methods. Since the early 2010s, a new artificial intelligence technology, deep neural networks (aka deep learning), has allowed the technology of speech recognition to reach a quality level that allowed the Microsoft Translator team to combine speech recognition with its core text translation technology to launch a new speech translation technology.
+
+
+<KEY IDEAS>
+
+There are basically three methods: First-generation rule-based (RbMT) systems rely on countless algorithms based on the grammar, syntax, and phraseology of a language. Statistical systems (SMT) arrived with search and big data. Statistical machine translation utilizes statistical translation models whose parameters stem from the analysis of monolingual and bilingual corpora. Building statistical translation models is a quick process, but the technology relies heavily on existing multilingual corpora.
+Neural MT (NMT) uses machine learning technology to teach software on how to produce the best result. This process consumes large amounts of processing power, and that is why it’s often run on graphics units of CPUs. NMT started gaining visibility in 2016. Many MT providers are now switching to this technology.
+
+
+<USES/APPLICATIONS>
+
+As machine translation applications are reaching significantly high accuracy levels, they are being increasingly employed in more areas of business, introducing new applications and improved machine-learning models. Mainly these applications fall into two major categories including business use and consumer use. For business use,  these applications are used by small, medium and large enterprises. Some organizations offer multi-domain translation services–that is, customizable solutions across multiple domains–and other organizations offer translation solutions only for a specific domain. For consumer use, these applications are usually light-weight, cloud-based apps or wearable devices that are typically trained on crowd-sourced data. These are mostly used by individual consumers, such as travelers, students, etc.
+

@@ -1,0 +1,10 @@
+<INTRODUCTION> : Text summarization, long pieces of text, a coherent and fluent summary, in the document, Automatic text summarization, machine learning, natural language processing (NLP)
+
+<HISTORY> : Traditional NLP methods, text summarization,scoring based TF-term frequency, IDF-inverse document frequency, cosine similarity, extractive summarization, in 1950’s, abstract summarization, traditional NLP approaches, complex linguistic models, template-based summarization, In the last few years, more modern NLP methods, neural word embeddings, word2vec, Deep Learning approaches, Recurrent Neural Networks (RNN), Long Short-Term Memory (LSTM), machines through natural language, machine learning, modern NLP approaches, automatic summarization approaches, text applications
+
+<KEY IDEAS> : Text summarization, a concise and precise summary, voluminous texts, useful information, the overall meaning, extraction-based summarization, a subset of words, a summary, abstraction-based summarization, advanced deep learning techniques, the original document
+
+<USES/APPLICATIONS> : Text summarization, personal or specialised assistants, use case, personalized devices, applications, Mail clients, report generation, news feed, an article or blog, your assistant, a summary of the blog
+
+<VARIATIONS> :  an information era, diverse content in different structures, The summarization, different application scenarios, research interest in diverse summarization tasks, timeline, query-based, multi-modal, meeting, dialogue, discussion thread
+

@@ -1,0 +1,24 @@
+<INTRODUCTION>
+
+Text summarization refers to the technique of shortening long pieces of text. The intention is to create a coherent and fluent summary having only the main points outlined in the document. Automatic text summarization is a common problem in machine learning and natural language processing (NLP).
+
+
+<HISTORY>
+
+Traditional NLP methods for text summarization such as scoring based TF-term frequency, IDF-inverse document frequency and cosine similarity, which involve extractive summarization, have been prevalent for quite some time now, owing to their origins in 1950’s. It’s more about trying to understand the importance of each sentence and their relationships with each other than to understand the context. On the other hand, abstract summarization is all about understanding the content of the text and then providing a summary based on that. In traditional NLP approaches, this involves more complex linguistic models as it creates new sentences using template-based summarization. In the last few years since the arrival of more modern NLP methods such as neural word embeddings, word2vec, and Deep Learning approaches such as Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM), the interaction with machines through natural language and machine learning have been enjoying a lot of success. These modern NLP approaches have become the go to automatic summarization approaches to encapsulate semantics in text applications. These methods have been highly successful thanks to improvements in computing and data storage.
+
+
+<KEY IDEAS>
+
+Text summarization is the technique for generating a concise and precise summary of voluminous texts while focusing on the sections that convey useful information, and without losing the overall meaning. In extraction-based summarization, a subset of words that represent the most important points is pulled from a piece of text and combined to make a summary. In abstraction-based summarization, advanced deep learning techniques are applied to paraphrase and shorten the original document. 
+
+
+<USES/APPLICATIONS>
+
+Text summarization can be used by personal or specialised assistants, that would be the ultimate use case. Apart from that it can be used for many personalized devices or applications. Mail clients, report generation, news feed etc. It could happen that you would look at an article or blog and your assistant could give you a summary of the blog.
+
+
+<VARIATIONS>
+
+However, living in an information era, we are facing with diverse content in different structures. The summarization need is varied along with different application scenarios. Recently, there is an increasing research interest in diverse summarization tasks, e.g., timeline, query-based, multi-modal, meeting, dialogue or discussion thread.
+
