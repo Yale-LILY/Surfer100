@@ -1,0 +1,22 @@
+<INTRODUCTION>
+
+A document-term matrix or term-document matrix is a mathematical matrix that describes the frequency of terms that occur in a collection of documents, important representation for text analytics. In a document-term matrix, rows correspond to documents in the collection and columns correspond to terms. There are various schemes for determining the value that each entry in the matrix should take. One such scheme is tf-idf. They are useful in the field of natural language processing. Document Term Matrix creates a numerical representation of the documents in our corpus.  A corpus is just a collection of documents.  It is easy to determine individual word counts for each document or for all documents. 
+
+
+<HISTORY>
+To do topic modeling with methods like Latent Dirichlet Allocation, it is necessary to build a Document Term Matrix (DTM) that contains the number of term occurrences per document. The rows of the DTM usually represent the documents and the columns represent the whole vocabulary, i.e. the set union of all terms that appear in all documents.
+
+
+<KEY IDEAS>
+When creating a database of terms that appear in a set of documents the document-term matrix contains rows corresponding to the documents and columns corresponding to the terms. A point of view on the matrix is that each row represents a document. One can apply the document features generated from Term Frequency(TF) or/and  Term Frequency-Inverse Document Frequency(TF-IDF) to create the document-term matrix. Normally, the term-document matrix is represented as a sparse matrix. 
+
+
+<USES/APPLICATIONS>
+
+There are many applications for the document-term matrix. It is possible to improve search results: Latent semantic analysis (LSA, performing singular-value decomposition on the document-term matrix) can improve search results by disambiguating polysemous words and searching for synonyms of the query. However, searching in the high-dimensional continuous space is much slower than searching the standard trie data structure of search engines. Besides, it is also helpful to find topics: Multivariate analysis of the document-term matrix can reveal topics/themes of the corpus. Specifically, latent semantic analysis and data clustering can be used, and more recently probabilistic latent semantic analysis and non-negative matrix factorization have been found to perform well for this task. One can apply the Gensim library to calculate the document-term matrix, it is an open-source Python framework for Vector Space modeling. It contains memory-efficient algorithms for constructing term-document matrices from text plus common transformations (tf-idf, LSA, LDA).
+
+
+
+<VARIATIONS>
+
+A similar way of representing documents as matrices is Term Frequency - Inverse Document Frequency. This is a weighting scheme provided to sharpen the importance of rare words in a document, relative to the frequency of these words in the corpus. It is based on simple calculations and even though it does not have strong theoretical foundations, it is still very useful in practice. Besides, with the development of deep learning methods, people tend to use the dense matrix to represent documents. There are other models for the document-term matrix, the latent semantic analysis (LSA) is a mathematical/statistical way of discovering hidden concepts between terms and documents. 

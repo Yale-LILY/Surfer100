@@ -1,0 +1,5 @@
+<INTRODUCTION> : sparse matrix, Term Frequency - Inverse Document Frequency, word count, semantic analysis
+<HISTORY> : topic modeling, Latent Dirichlet Allocation, vocabulary
+<KEY IDEAS> : topic modeling, Term Frequency - Inverse Document Frequency, 
+<USES/APPLICATIONS> : Information retrival, LSA, topic modeling, matrix factorization, multivariate analysis, Gensim
+<VARIATIONS> : Term Frequency - Inverse Document Frequency, dense matrix, LSA, document representation
