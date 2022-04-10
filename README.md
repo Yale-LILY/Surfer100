@@ -1,6 +1,6 @@
 # Surfer100: a dataset for survey generation from web resources
 
-Check our LREC 2022 paper[Surfer100: Generating Surveys From Web Resources on Wikipedia-style](https://arxiv.org/abs/2112.06377).
+Check our LREC 2022 paper [Surfer100: Generating Surveys From Web Resources on Wikipedia-style](https://arxiv.org/abs/2112.06377).
 
 
 
